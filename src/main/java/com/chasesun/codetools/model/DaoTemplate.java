@@ -1,6 +1,6 @@
 package com.chasesun.codetools.model;
-
-public class DaoTemplate extends BaseTemplate {
+# add comment by ling;
+public class DaoTemplte extends BaseTemplate {
     /**
      * 介绍
      */
