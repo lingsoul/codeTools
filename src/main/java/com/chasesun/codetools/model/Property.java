@@ -2,7 +2,7 @@
  * Copyright © 2015jkzl. All rights reserved. 
  */
 package com.chasesun.codetools.model;
-
+#modity by ling;
 /**
  * @Description: 属性
  * @author peter.Chen
